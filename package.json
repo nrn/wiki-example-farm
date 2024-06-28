@@ -1,0 +1,16 @@
+{
+  "name": "wiki-example-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Niemeir <nick.niemeir@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.7",
+    "wiki-client": "^0.29.2",
+    "wiki-server": "^0.24.3"
+  }
+}
